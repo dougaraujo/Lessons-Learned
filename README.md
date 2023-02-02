@@ -16,13 +16,13 @@ Lessons Learned aborda os conceitos aprendidos nas 2 primeiras seções do módu
 
 ## Foram avaliados os seguintes pontos: 
 
- - Aderência do código à especificação. Sua página deve se comportar como especificado na próxima seção
+ - Aderência do código à especificação. A página deve se comportar como especificado.
  
- - Organização do seu código. Construa a estrutura do seu HTML dividindo as tags adequadamente e faça commits organizados.
+ - Organização do código. A estrutura HTML deve ser dividida em tags adequadamente e devem ser feitos commits organizados.
 
- - Sua capacidade de estruturar semanticamente uma página HTML. Utilize as tags corretas, bem indentadas e com as classes e ids adequados.
+ - A capacidade de estruturar semanticamente uma página HTML. Utilizar tags corretas, bem indentadas e com as classes e ids adequados.
 
- - A estrutura do seu CSS. Evite repetição. Combine e agrupe classes CSS bem definidas.
+ - A estrutura do CSS. Evitar repetição. Combinar e agrupar classes CSS bem definidas.
 
 ## O que foi desenvolvido ?
  
