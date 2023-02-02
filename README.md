@@ -1,6 +1,6 @@
  # Boas-vindas ao repositório do projeto Lessons Learned!
 
-Esse repositório contém a resolução refatorada do primeiro projeto desenvolvido por mim na trybe.
+Esse repositório contém a resolução refatorada do projeto lessons learned desenvolvido por mim durante a formação Trybe.
 
 Lessons Learned aborda os conceitos aprendidos nas 2 primeiras seções do módulo de fundamentos do curso de Desenvolvimento Web Fullstack.
 
