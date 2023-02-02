@@ -7,16 +7,17 @@
 #cabecalho {
   position: sticky;
   top: 0;
-  background-color: pink;
+  background-color: #3523A9;
   top: 0;
-  height: 100px;
+  height: 80px;
   text-align: center;
 }
 
 #titulo {
+  color: whitesmoke;
   margin: 0;
   position: relative;
-  top: 30%;
+  top: 25%;
 }
 
 body {
