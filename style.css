@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-#cabecalho {
+#header {
   position: sticky;
   top: 0;
   background-color: #3523A9;
@@ -13,14 +13,22 @@
   text-align: center;
 }
 
-#titulo {
+#title {
   color: whitesmoke;
   margin: 0;
   position: relative;
   top: 25%;
 }
 
+#my_picture {
+  width: 250px;
+  border-radius: 60%;
+}
+
 body {
   background-color: rgb(253, 251, 251);
 }
 
+.main-container {
+  padding: 10px;
+}
